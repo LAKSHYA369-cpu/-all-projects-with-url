@@ -26,6 +26,8 @@ https://omvnine.edgeone.dev/
 https://aether.edgeone.dev/
 https://apkforge.edgeone.dev/
 https://virtualmouseai.edgeone.dev/
+https://agenticartificialintelligence.vercel.app
+
 
 
 
